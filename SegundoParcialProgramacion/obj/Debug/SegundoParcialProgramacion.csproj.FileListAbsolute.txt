@@ -1,0 +1,58 @@
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\SegundoParcialProgramacion.dll.config
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\SegundoParcialProgramacion.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\SegundoParcialProgramacion.pdb
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Antlr3.Runtime.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\EntityFramework.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Microsoft.Web.Infrastructure.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Newtonsoft.Json.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Net.Http.Formatting.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Http.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Http.WebHost.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Mvc.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Optimization.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Providers.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Razor.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.Deployment.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.Razor.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\WebGrease.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\EntityFramework.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Newtonsoft.Json.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Net.Http.Formatting.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Http.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Http.WebHost.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Mvc.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Razor.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.Deployment.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.Razor.xml
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\obj\Debug\SegundoParcialProgramacion.dll
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\obj\Debug\SegundoParcialProgramacion.pdb
+D:\diegoazh\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\obj\Debug\SegundoParcialProgramacion.csprojResolveAssemblyReference.cache
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\SegundoParcialProgramacion.dll.config
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\SegundoParcialProgramacion.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\SegundoParcialProgramacion.pdb
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Antlr3.Runtime.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\EntityFramework.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Newtonsoft.Json.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Mvc.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Optimization.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Providers.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Razor.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.Razor.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\WebGrease.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\EntityFramework.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\Newtonsoft.Json.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Mvc.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.Razor.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\bin\System.Web.WebPages.Razor.xml
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\obj\Debug\SegundoParcialProgramacion.dll
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\obj\Debug\SegundoParcialProgramacion.pdb
+C:\Users\AdminFull\Documents\Visual Studio 2013\Projects\MVC\SegundoParcialProgramacion\SegundoParcialProgramacion\SegundoParcialProgramacion\obj\Debug\SegundoParcialProgramacion.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SegundoParcialProgramacion" Class="comentarioDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=WIN-QDOHSNOI6IT;Initial Catalog=SegundoParcialProgramacion;Persist Security Info=True;User ID=tecnicatura" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="SegundoParcialProgramacionConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Comentarios" Member="Comentarios">
+    <Type Name="Comentario">
+      <Column Name="id_com" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="comentario" Member="comentario1" Type="System.String" DbType="NVarChar(300) NOT NULL" CanBeNull="false" />
+      <Column Name="fecha" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
